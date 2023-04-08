@@ -14,7 +14,7 @@ This project was inspired by and built with the help of tutorials and resources 
 ## Installation
 To install and run this app on your local machine, follow these steps:
 
-1. Clone the repository to your local machine using git clone https://github.com/your-username/SkyCastWeb.git.
+1. Clone the repository to your local machine using git clone https://github.com/your-username/WeatherNow-App.git.
 2. Open the index.html file in your web browser.
 
 ## Usage
